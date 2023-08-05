@@ -1,0 +1,7 @@
+2023-08-06 00:23:45.326670 - Initialized conversion of CBT017
+2023-08-06 00:23:45.370742 - Received CBT.V505.FILE017.PDS from FILE017.XMI 
+2023-08-06 00:23:45.372936 - Found $$$#DATE.txt (text/plain) in CBT.V505.FILE017.PDS, moved to PDS/$$$#DATE
+2023-08-06 00:23:45.373928 - Found @FILE017.txt (text/plain) in CBT.V505.FILE017.PDS, moved to PDS/@FILE017
+2023-08-06 00:23:45.375125 - Found LISTDD.txt (text/plain) in CBT.V505.FILE017.PDS, moved to PDS/LISTDD
+2023-08-06 00:23:45.376041 - Found LISTDD$.jcl (text/plain) in CBT.V505.FILE017.PDS, moved to PDS/LISTDD$
+2023-08-06 00:23:45.376978 - Found LISTDD00.txt (text/plain) in CBT.V505.FILE017.PDS, moved to PDS/LISTDD00
